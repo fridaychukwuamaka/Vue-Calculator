@@ -1,4 +1,4 @@
-# pasword
+# Calculator-vue
 
 ## Project setup
 ```
